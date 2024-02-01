@@ -1,0 +1,13 @@
+#list {
+  margin-bottom: 2rem;
+}
+
+.list-item {
+  transition: 0.3s all ease-in-out;
+  cursor: pointer;
+}
+
+.list-item:hover {
+  color: red;
+  text-decoration: line-through;
+}
